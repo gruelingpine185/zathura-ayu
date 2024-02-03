@@ -38,3 +38,7 @@ include themes/ayu/<theme>
 
 # other config settings ...
 ```
+
+## Contributing
+
+Contributions are welcomed and encouraged. If you find any issues, feel free to create an [Issue](https://github.com/gruelingpine185/zathura-ayu/issues) or a [Pull Request](https://gruelingpine185/zathura-ayu/pulls).
