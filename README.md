@@ -29,7 +29,7 @@ curl https://raw.githubusercontent.com/gruelingpine185/zathura-ayu/main/{ayu_mir
 
 The last step is to pick a theme being one of:  
 
-- `ayu_mirage`
+- ayu_mirage
 
 and include it within your `zathurarc` file.
 
